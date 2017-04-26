@@ -1,0 +1,1 @@
+char* vm_uuid();
